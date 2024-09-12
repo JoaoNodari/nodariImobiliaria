@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+:root {
+    --cor-dourada: #dda520;
+    --cor-marrom: #4f4135;
+    --cor-bege: #f2f1ee;
+
+    --titulo: "Anton", sans-serif;
+    --texto: "SUSE", system-ui;
+}
